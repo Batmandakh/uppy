@@ -1,5 +1,44 @@
 # uppy
 
+## 5.1.12
+
+### Patch Changes
+
+- Updated dependencies [8744c4d]
+- Updated dependencies [79e6460]
+  - @uppy/locales@5.0.1
+  - @uppy/google-photos-picker@1.1.0
+  - @uppy/google-drive-picker@1.1.0
+  - @uppy/thumbnail-generator@5.1.0
+  - @uppy/golden-retriever@5.2.0
+  - @uppy/provider-views@5.2.0
+  - @uppy/remote-sources@3.1.0
+  - @uppy/screen-capture@5.1.0
+  - @uppy/google-drive@5.1.0
+  - @uppy/image-editor@4.1.0
+  - @uppy/drop-target@4.1.0
+  - @uppy/transloadit@5.3.0
+  - @uppy/compressor@3.1.0
+  - @uppy/status-bar@5.1.0
+  - @uppy/xhr-upload@5.1.0
+  - @uppy/dashboard@5.1.0
+  - @uppy/drag-drop@5.1.0
+  - @uppy/instagram@5.1.0
+  - @uppy/facebook@5.1.0
+  - @uppy/onedrive@5.1.0
+  - @uppy/unsplash@5.1.0
+  - @uppy/dropbox@5.1.0
+  - @uppy/aws-s3@5.1.0
+  - @uppy/webcam@5.1.0
+  - @uppy/webdav@1.1.0
+  - @uppy/audio@3.1.0
+  - @uppy/core@5.2.0
+  - @uppy/form@5.1.0
+  - @uppy/zoom@4.1.0
+  - @uppy/box@4.1.0
+  - @uppy/tus@5.1.0
+  - @uppy/url@5.1.0
+
 ## 5.1.11
 
 ### Patch Changes

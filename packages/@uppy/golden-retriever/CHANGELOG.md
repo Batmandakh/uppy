@@ -1,5 +1,17 @@
 # @uppy/golden-retriever
 
+## 5.2.0
+
+### Minor Changes
+
+- 79e6460: - Add PluginTypeRegistry and typed getPlugin overload in @uppy/core
+  - Register plugin ids across packages so uppy.getPlugin('Dashboard' | 'Webcam') returns the concrete plugin type and removes the need to pass generics in getPlugin()
+
+### Patch Changes
+
+- Updated dependencies [79e6460]
+  - @uppy/core@5.2.0
+
 ## 5.1.1
 
 ### Patch Changes

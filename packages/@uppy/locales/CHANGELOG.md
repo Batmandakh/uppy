@@ -1,5 +1,11 @@
 # @uppy/locales
 
+## 5.0.1
+
+### Patch Changes
+
+- 8744c4d: Improve Dutch locale
+
 ## 5.0.0
 
 ### Major Changes

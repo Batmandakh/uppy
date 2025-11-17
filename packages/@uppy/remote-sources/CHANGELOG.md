@@ -1,5 +1,27 @@
 # @uppy/remote-sources
 
+## 3.1.0
+
+### Minor Changes
+
+- 79e6460: - Add PluginTypeRegistry and typed getPlugin overload in @uppy/core
+  - Register plugin ids across packages so uppy.getPlugin('Dashboard' | 'Webcam') returns the concrete plugin type and removes the need to pass generics in getPlugin()
+
+### Patch Changes
+
+- Updated dependencies [79e6460]
+  - @uppy/google-drive@5.1.0
+  - @uppy/dashboard@5.1.0
+  - @uppy/instagram@5.1.0
+  - @uppy/facebook@5.1.0
+  - @uppy/onedrive@5.1.0
+  - @uppy/unsplash@5.1.0
+  - @uppy/dropbox@5.1.0
+  - @uppy/core@5.2.0
+  - @uppy/zoom@4.1.0
+  - @uppy/box@4.1.0
+  - @uppy/url@5.1.0
+
 ## 3.0.1
 
 ### Patch Changes
